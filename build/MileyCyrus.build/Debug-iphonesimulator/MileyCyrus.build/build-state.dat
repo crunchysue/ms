@@ -1,0 +1,1483 @@
+TMileyCyrus
+v7
+r0
+t282948078.404529
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AD10D7700000000000000EE
+t1255214455
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004ABDF09F000000000000022F
+t1253961887
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004ABDF0B500000000000CB600
+t1253961909
+s833024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Users/sue/iDev/MileyCyrus/Breakout/7Things.html
+c000000004B2D1AC500000000000007B7
+t1261247173
+s1975
+
+N/Users/sue/iDev/MileyCyrus/Breakout/BottomOfTheOcean.html
+c000000004B2D1AC50000000000000880
+t1261247173
+s2176
+
+N/Users/sue/iDev/MileyCyrus/Breakout/Breakout.html
+c000000004B2D1AC50000000000000544
+t1261247173
+s1348
+
+N/Users/sue/iDev/MileyCyrus/Breakout/FlyOnTheWall.html
+c000000004B2D1AC500000000000008C9
+t1261247173
+s2249
+
+N/Users/sue/iDev/MileyCyrus/Breakout/FourWalls.html
+c000000004B2D1AC50000000000000669
+t1261247173
+s1641
+
+N/Users/sue/iDev/MileyCyrus/Breakout/FullCircle.html
+c000000004B2D1AC500000000000008AA
+t1261247173
+s2218
+
+N/Users/sue/iDev/MileyCyrus/Breakout/GirlsJustWannaHaveFun.html
+c000000004B2D1AC50000000000000826
+t1261247173
+s2086
+
+N/Users/sue/iDev/MileyCyrus/Breakout/Goodbye.html
+c000000004B2D1AC5000000000000070B
+t1261247173
+s1803
+
+N/Users/sue/iDev/MileyCyrus/Breakout/SeeYouAgain.html
+c000000004B2D1AC50000000000000629
+t1261247173
+s1577
+
+N/Users/sue/iDev/MileyCyrus/Breakout/SimpleSong.html
+c000000004B2D1AC5000000000000079B
+t1261247173
+s1947
+
+N/Users/sue/iDev/MileyCyrus/Breakout/TheDriveway.html
+c000000004B2D1AC50000000000000906
+t1261247173
+s2310
+
+N/Users/sue/iDev/MileyCyrus/Breakout/WakeUpAmerica.html
+c000000004B2D1AC500000000000008DE
+t1261247173
+s2270
+
+N/Users/sue/iDev/MileyCyrus/Classes/FlipsideView.h
+c000000004B23FB8400000000000000BA
+t1260649348
+s186
+
+N/Users/sue/iDev/MileyCyrus/Classes/FlipsideView.m
+c000000004B24298800000000000001BD
+t1260661128
+s445
+i"FlipsideView.h"
+
+N/Users/sue/iDev/MileyCyrus/Classes/FlipsideViewController.h
+c000000004B286EBF00000000000004F9
+t1260940991
+s1273
+i"SplashViewController.h"
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/sue/iDev/MileyCyrus/Classes/FlipsideViewController.m
+c000000004B2D361600000000000011C8
+t1261254166
+s4552
+i"FlipsideViewController.h"
+i"TaylorSwiftAppDelegate.h"
+
+N/Users/sue/iDev/MileyCyrus/Classes/MainView.h
+c000000004B23FB8400000000000000CA
+t1260649348
+s202
+i<UIKit/UIKit.h>
+
+N/Users/sue/iDev/MileyCyrus/Classes/MainView.m
+c000000004B23FB8400000000000001AE
+t1260649348
+s430
+i"MainView.h"
+
+N/Users/sue/iDev/MileyCyrus/Classes/MainViewController.h
+c000000004B2D32320000000000000301
+t1261253170
+s769
+i"FlipsideViewController.h"
+
+N/Users/sue/iDev/MileyCyrus/Classes/MainViewController.m
+c000000004B2D376F000000000000157C
+t1261254511
+s5500
+i"MainViewController.h"
+i"MainView.h"
+
+N/Users/sue/iDev/MileyCyrus/Classes/TaylorSwiftAppDelegate.h
+c000000004B284BD400000000000001E7
+t1260932052
+s487
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/sue/iDev/MileyCyrus/Classes/TaylorSwiftAppDelegate.m
+c000000004B287F0E0000000000000344
+t1260945166
+s836
+i"TaylorSwiftAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/sue/iDev/MileyCyrus/Default.png
+c000000004B2D30F80000000000035B23
+t1261252856
+s219939
+
+N/Users/sue/iDev/MileyCyrus/FlipsideView.xib
+c000000004B2D319E0000000000007E02
+t1261253022
+s32258
+
+N/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/ButterflyFlyAway.html
+c000000004B2D1AC500000000000005A1
+t1261247173
+s1441
+
+N/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/DontWalkAway.html
+c000000004B2D1AC500000000000006B9
+t1261247173
+s1721
+
+N/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/Dream.html
+c000000004B2D1AC500000000000007D5
+t1261247173
+s2005
+
+N/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/HoedownThrowdown.html
+c000000004B2D1AC50000000000000C90
+t1261247173
+s3216
+
+N/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/TheClimb.html
+c000000004B2D1AC50000000000000782
+t1261247173
+s1922
+
+N/Users/sue/iDev/MileyCyrus/MainView.xib
+c000000004B268D520000000000004953
+t1260817746
+s18771
+
+N/Users/sue/iDev/MileyCyrus/MainWindow.xib
+c000000004B23FB840000000000001E20
+t1260649348
+s7712
+
+N/Users/sue/iDev/MileyCyrus/MileyCyrus_Prefix.pch
+c000000004B23FB840000000000000148
+t1260649348
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sue/iDev/MileyCyrus/SplashViewController.h
+c000000004B284F6C0000000000000222
+t1260932972
+s546
+i<UIKit/UIKit.h>
+
+N/Users/sue/iDev/MileyCyrus/SplashViewController.m
+c000000004B284E420000000000000604
+t1260932674
+s1540
+i"SplashViewController.h"
+
+N/Users/sue/iDev/MileyCyrus/SplashViewController.xib
+c000000004B28556300000000000046F0
+t1260934499
+s18160
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/BeforeTheStorm.html
+c000000004B2D1AC500000000000007FC
+t1261247173
+s2044
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/KickingAndScreaming.html
+c000000004B2D1AC50000000000000910
+t1261247173
+s2320
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/Obsessed.html
+c000000004B2D1AC500000000000005D2
+t1261247173
+s1490
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheUSA.html
+c000000004B2D1AC500000000000007F5
+t1261247173
+s2037
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TalkIsCheap.html
+c000000004B2D1AC500000000000008AD
+t1261247173
+s2221
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TheTimeOfOurLives.html
+c000000004B2D1AC5000000000000078E
+t1261247173
+s1934
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/WhenILookAtYou.html
+c000000004B2D1AC50000000000000676
+t1261247173
+s1654
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app.dSYM
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/7Things.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/BeforeTheStorm.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/BottomOfTheOcean.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Breakout.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/ButterflyFlyAway.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Default.png
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/DontWalkAway.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Dream.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/FlipsideView.nib
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/FlyOnTheWall.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/FourWalls.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/FullCircle.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/GirlsJustWannaHaveFun.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Goodbye.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/HoedownThrowdown.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Info.plist
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/KickingAndScreaming.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/MainView.nib
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/MainWindow.nib
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Obsessed.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/PartyInTheUSA.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/PkgInfo
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/SeeYouAgain.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/SimpleSong.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/SplashViewController.nib
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/TalkIsCheap.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/TheClimb.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/TheDriveway.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/TheTimeOfOurLives.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/WakeUpAmerica.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/WhenILookAtYou.html
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/caitlin-button.png
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/emma-miley-button.png
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/icon.png
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/smallPauseButton.png
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/smallPlayButton.png
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/smallStopButton.png
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/songStyles.css
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app
+t1261254512
+s1394
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app.dSYM
+t1261254512
+s102
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/7Things.html
+t1261254387
+s1975
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/BeforeTheStorm.html
+t1261254387
+s2044
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/BottomOfTheOcean.html
+t1261254387
+s2176
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Breakout.html
+t1261254387
+s1348
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/ButterflyFlyAway.html
+t1261254387
+s1441
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Default.png
+t1261254387
+s219939
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/DontWalkAway.html
+t1261254387
+s1721
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Dream.html
+t1261254387
+s2005
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/FlipsideView.nib
+t1261254386
+s5027
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/FlyOnTheWall.html
+t1261254387
+s2249
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/FourWalls.html
+t1261254387
+s1641
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/FullCircle.html
+t1261254387
+s2218
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/GirlsJustWannaHaveFun.html
+t1261254387
+s2086
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Goodbye.html
+t1261254387
+s1803
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/HoedownThrowdown.html
+t1261254387
+s3216
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Info.plist
+t1261254386
+s576
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/KickingAndScreaming.html
+t1261254387
+s2320
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MainView.nib
+t1261254386
+s1752
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MainWindow.nib
+t1261254386
+s1383
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus
+t1261254512
+s41940
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Obsessed.html
+t1261254387
+s1490
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/PartyInTheUSA.html
+t1261254387
+s2037
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/PkgInfo
+t1261254386
+s8
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/SeeYouAgain.html
+t1261254387
+s1577
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/SimpleSong.html
+t1261254387
+s1947
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/SplashViewController.nib
+t1261254387
+s2064
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/TalkIsCheap.html
+t1261254387
+s2221
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/TheClimb.html
+t1261254387
+s1922
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/TheDriveway.html
+t1261254387
+s2310
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/TheTimeOfOurLives.html
+t1261254387
+s1934
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/WakeUpAmerica.html
+t1261254387
+s2270
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/WhenILookAtYou.html
+t1261254387
+s1654
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/caitlin-button.png
+t1261254387
+s2605
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/emma-miley-button.png
+t1261254387
+s2542
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/icon.png
+t1261254386
+s114298
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/smallPauseButton.png
+t1261254387
+s2351
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/smallPlayButton.png
+t1261254387
+s2493
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/smallStopButton.png
+t1261254387
+s2086
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/songStyles.css
+t1261254386
+s61
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/FlipsideView.o
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/FlipsideViewController.o
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MainView.o
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/Miley Cyrus.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MileyCyrus.LinkFileList
+c000000004B2D36F2000000000000037A
+t1261254386
+s890
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/SplashViewController.o
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/TaylorSwiftAppDelegate.o
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sue/iDev/MileyCyrus/caitlin-button.png
+c000000004B2D104B0000000000000A2D
+t1261244491
+s2605
+
+N/Users/sue/iDev/MileyCyrus/emma-miley-button.png
+c000000004B2D30EA00000000000009EE
+t1261252842
+s2542
+
+N/Users/sue/iDev/MileyCyrus/icon.png
+c000000004B2D38670000000000004470
+t1261254759
+s17520
+
+N/Users/sue/iDev/MileyCyrus/main.m
+c000000004B23FB84000000000000016A
+t1260649348
+s362
+i<UIKit/UIKit.h>
+
+N/Users/sue/iDev/MileyCyrus/smallPauseButton.png
+c000000004B2864BB000000000000092F
+t1260938427
+s2351
+
+N/Users/sue/iDev/MileyCyrus/smallPlayButton.png
+c000000004B28643400000000000009BD
+t1260938292
+s2493
+
+N/Users/sue/iDev/MileyCyrus/smallStopButton.png
+c000000004B2864AC0000000000000826
+t1260938412
+s2086
+
+N/Users/sue/iDev/MileyCyrus/songStyles.css
+c000000004B256888000000000000003D
+t1260742792
+s61
+
+N/var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch.gch
+t2
+s0
+
+NMileyCyrus-Info.plist
+c000000004B23FB84000000000000038D
+t1260649348
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies282948078#282948078#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/FlipsideView.o /Users/sue/iDev/MileyCyrus/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s282947995.225013
+e282947995.284660
+r1
+xCompileC
+xbuild/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/FlipsideView.o
+x/Users/sue/iDev/MileyCyrus/Classes/FlipsideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/sue/iDev/MileyCyrus/Classes/FlipsideView.m282947995#282947995#0(0"0(0#0#49"/Users/sue/iDev/MileyCyrus/Classes/FlipsideView.m4300885448#1885"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -I/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources/i386 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/Classes/FlipsideView.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/FlipsideView.o0#
+
+CCompileC build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/FlipsideViewController.o /Users/sue/iDev/MileyCyrus/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s282947995.339752
+e282947995.450746
+r1
+xCompileC
+xbuild/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/sue/iDev/MileyCyrus/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sue/iDev/MileyCyrus/Classes/FlipsideViewController.m282947995#282947995#0(0"0(0#0#59"/Users/sue/iDev/MileyCyrus/Classes/FlipsideViewController.m4300885448#1905"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -I/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources/i386 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/Classes/FlipsideViewController.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MainView.o /Users/sue/iDev/MileyCyrus/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s282947995.284773
+e282947995.339635
+r1
+xCompileC
+xbuild/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MainView.o
+x/Users/sue/iDev/MileyCyrus/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/sue/iDev/MileyCyrus/Classes/MainView.m282947995#282947995#0(0"0(0#0#45"/Users/sue/iDev/MileyCyrus/Classes/MainView.m4300885448#1877"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -I/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources/i386 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/Classes/MainView.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MainView.o0#
+
+CCompileC build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MainViewController.o /Users/sue/iDev/MileyCyrus/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s282947995.298990
+e282947995.427036
+r1
+xCompileC
+xbuild/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MainViewController.o
+x/Users/sue/iDev/MileyCyrus/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sue/iDev/MileyCyrus/Classes/MainViewController.m282947995#282947995#0(0"0(0#0#55"/Users/sue/iDev/MileyCyrus/Classes/MainViewController.m4300885448#1897"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -I/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources/i386 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/Classes/MainViewController.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/SplashViewController.o /Users/sue/iDev/MileyCyrus/SplashViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s282947995.427146
+e282947995.487549
+r1
+xCompileC
+xbuild/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/SplashViewController.o
+x/Users/sue/iDev/MileyCyrus/SplashViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/sue/iDev/MileyCyrus/SplashViewController.m282947995#282947995#0(0"0(0#0#49"/Users/sue/iDev/MileyCyrus/SplashViewController.m4300885448#1893"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -I/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources/i386 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/SplashViewController.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/SplashViewController.o0#
+
+CCompileC build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/TaylorSwiftAppDelegate.o /Users/sue/iDev/MileyCyrus/Classes/TaylorSwiftAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s282947995.159358
+e282947995.298873
+r1
+xCompileC
+xbuild/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/TaylorSwiftAppDelegate.o
+x/Users/sue/iDev/MileyCyrus/Classes/TaylorSwiftAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sue/iDev/MileyCyrus/Classes/TaylorSwiftAppDelegate.m282947995#282947995#0(0"0(0#0#59"/Users/sue/iDev/MileyCyrus/Classes/TaylorSwiftAppDelegate.m4300885448#1905"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -I/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources/i386 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/Classes/TaylorSwiftAppDelegate.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/TaylorSwiftAppDelegate.o0#
+
+CCompileC build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/main.o /Users/sue/iDev/MileyCyrus/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s282947995.158158
+e282947995.224916
+r1
+xCompileC
+xbuild/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/main.o
+x/Users/sue/iDev/MileyCyrus/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/sue/iDev/MileyCyrus/main.m282947995#282947995#0(0"0(0#0#33"/Users/sue/iDev/MileyCyrus/main.m4300885448#1861"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -I/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources/i386 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/main.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sue/iDev/MileyCyrus/FlipsideView.xib
+s282947992.788448
+e282947993.227719
+r1
+xCompileXIB
+x/Users/sue/iDev/MileyCyrus/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib282947992#282947993#0(0"0(0#0#43"/Users/sue/iDev/MileyCyrus/FlipsideView.xib4300885448#518"    cd /Users/sue/iDev/MileyCyrus    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/FlipsideView.nib" /Users/sue/iDev/MileyCyrus/FlipsideView.xib0#
+
+CCompileXIB /Users/sue/iDev/MileyCyrus/MainView.xib
+s282947992.789267
+e282947993.115891
+r1
+xCompileXIB
+x/Users/sue/iDev/MileyCyrus/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib282947992#282947993#0(0"0(0#0#39"/Users/sue/iDev/MileyCyrus/MainView.xib4300885448#510"    cd /Users/sue/iDev/MileyCyrus    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/MainView.nib" /Users/sue/iDev/MileyCyrus/MainView.xib0#
+
+CCompileXIB /Users/sue/iDev/MileyCyrus/MainWindow.xib
+s282947993.115993
+e282947993.396232
+r1
+xCompileXIB
+x/Users/sue/iDev/MileyCyrus/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib282947993#282947993#0(0"0(0#0#41"/Users/sue/iDev/MileyCyrus/MainWindow.xib4300885448#514"    cd /Users/sue/iDev/MileyCyrus    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/MainWindow.nib" /Users/sue/iDev/MileyCyrus/MainWindow.xib0#
+
+CCompileXIB /Users/sue/iDev/MileyCyrus/SplashViewController.xib
+s282947993.228841
+e282947993.654785
+r1
+xCompileXIB
+x/Users/sue/iDev/MileyCyrus/SplashViewController.xib
+lSLF07#2@35"CompileXIB SplashViewController.xib282947993#282947993#0(0"0(0#0#51"/Users/sue/iDev/MileyCyrus/SplashViewController.xib4300885448#534"    cd /Users/sue/iDev/MileyCyrus    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/SplashViewController.nib" /Users/sue/iDev/MileyCyrus/SplashViewController.xib0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/7Things.html" Breakout/7Things.html
+s282947993.411942
+e282947993.424678
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/7Things.html
+xBreakout/7Things.html
+lSLF07#2@26"Copy Breakout/7Things.html282947993#282947993#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/Breakout/7Things.html4300885448#497"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/7Things.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/BeforeTheStorm.html" "The Time of Our LIves/BeforeTheStorm.html"
+s282947993.485469
+e282947993.500855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/BeforeTheStorm.html
+xThe Time of Our LIves/BeforeTheStorm.html
+lSLF07#2@46"Copy The Time of Our LIves/BeforeTheStorm.html282947993#282947993#0(0"0(0#0#68"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/BeforeTheStorm.html4300885448#519"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/BeforeTheStorm.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/BottomOfTheOcean.html" Breakout/BottomOfTheOcean.html
+s282947993.417184
+e282947993.425100
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/BottomOfTheOcean.html
+xBreakout/BottomOfTheOcean.html
+lSLF07#2@35"Copy Breakout/BottomOfTheOcean.html282947993#282947993#0(0"0(0#0#57"/Users/sue/iDev/MileyCyrus/Breakout/BottomOfTheOcean.html4300885448#506"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/BottomOfTheOcean.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/Breakout.html" Breakout/Breakout.html
+s282947993.418561
+e282947993.443322
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/Breakout.html
+xBreakout/Breakout.html
+lSLF07#2@27"Copy Breakout/Breakout.html282947993#282947993#0(0"0(0#0#49"/Users/sue/iDev/MileyCyrus/Breakout/Breakout.html4300885448#498"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/Breakout.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/ButterflyFlyAway.html" "Hannah Montana Movie/ButterflyFlyAway.html"
+s282947993.447893
+e282947993.484393
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/ButterflyFlyAway.html
+xHannah Montana Movie/ButterflyFlyAway.html
+lSLF07#2@47"Copy Hannah Montana Movie/ButterflyFlyAway.html282947993#282947993#0(0"0(0#0#69"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/ButterflyFlyAway.html4300885448#520"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/ButterflyFlyAway.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/Default.png" Default.png
+s282947993.406601
+e282947993.424188
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png282947993#282947993#0(0"0(0#0#38"/Users/sue/iDev/MileyCyrus/Default.png4300885448#487"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Default.png "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/DontWalkAway.html" "Hannah Montana Movie/DontWalkAway.html"
+s282947993.449624
+e282947993.484546
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/DontWalkAway.html
+xHannah Montana Movie/DontWalkAway.html
+lSLF07#2@43"Copy Hannah Montana Movie/DontWalkAway.html282947993#282947993#0(0"0(0#0#65"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/DontWalkAway.html4300885448#516"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/DontWalkAway.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/Dream.html" "Hannah Montana Movie/Dream.html"
+s282947993.456939
+e282947993.484687
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/Dream.html
+xHannah Montana Movie/Dream.html
+lSLF07#2@36"Copy Hannah Montana Movie/Dream.html282947993#282947993#0(0"0(0#0#58"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/Dream.html4300885448#509"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/Dream.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/FlyOnTheWall.html" Breakout/FlyOnTheWall.html
+s282947993.425189
+e282947993.442692
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/FlyOnTheWall.html
+xBreakout/FlyOnTheWall.html
+lSLF07#2@31"Copy Breakout/FlyOnTheWall.html282947993#282947993#0(0"0(0#0#53"/Users/sue/iDev/MileyCyrus/Breakout/FlyOnTheWall.html4300885448#502"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/FlyOnTheWall.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/FourWalls.html" Breakout/FourWalls.html
+s282947993.426001
+e282947993.442832
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/FourWalls.html
+xBreakout/FourWalls.html
+lSLF07#2@28"Copy Breakout/FourWalls.html282947993#282947993#0(0"0(0#0#50"/Users/sue/iDev/MileyCyrus/Breakout/FourWalls.html4300885448#499"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/FourWalls.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/FullCircle.html" Breakout/FullCircle.html
+s282947993.427653
+e282947993.442956
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/FullCircle.html
+xBreakout/FullCircle.html
+lSLF07#2@29"Copy Breakout/FullCircle.html282947993#282947993#0(0"0(0#0#51"/Users/sue/iDev/MileyCyrus/Breakout/FullCircle.html4300885448#500"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/FullCircle.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/GirlsJustWannaHaveFun.html" Breakout/GirlsJustWannaHaveFun.html
+s282947993.429309
+e282947993.443080
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/GirlsJustWannaHaveFun.html
+xBreakout/GirlsJustWannaHaveFun.html
+lSLF07#2@40"Copy Breakout/GirlsJustWannaHaveFun.html282947993#282947993#0(0"0(0#0#62"/Users/sue/iDev/MileyCyrus/Breakout/GirlsJustWannaHaveFun.html4300885448#511"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/GirlsJustWannaHaveFun.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/Goodbye.html" Breakout/Goodbye.html
+s282947993.431708
+e282947993.443198
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/Goodbye.html
+xBreakout/Goodbye.html
+lSLF07#2@26"Copy Breakout/Goodbye.html282947993#282947993#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/Breakout/Goodbye.html4300885448#497"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/Goodbye.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/HoedownThrowdown.html" "Hannah Montana Movie/HoedownThrowdown.html"
+s282947993.458752
+e282947993.484828
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/HoedownThrowdown.html
+xHannah Montana Movie/HoedownThrowdown.html
+lSLF07#2@47"Copy Hannah Montana Movie/HoedownThrowdown.html282947993#282947993#0(0"0(0#0#69"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/HoedownThrowdown.html4300885448#520"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/HoedownThrowdown.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/KickingAndScreaming.html" "The Time of Our LIves/KickingAndScreaming.html"
+s282947993.486947
+e282947993.500992
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/KickingAndScreaming.html
+xThe Time of Our LIves/KickingAndScreaming.html
+lSLF07#2@51"Copy The Time of Our LIves/KickingAndScreaming.html282947993#282947993#0(0"0(0#0#73"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/KickingAndScreaming.html4300885448#524"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/KickingAndScreaming.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/Obsessed.html" "The Time of Our LIves/Obsessed.html"
+s282947993.487615
+e282947993.501120
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/Obsessed.html
+xThe Time of Our LIves/Obsessed.html
+lSLF07#2@40"Copy The Time of Our LIves/Obsessed.html282947993#282947993#0(0"0(0#0#62"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/Obsessed.html4300885448#513"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/Obsessed.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/PartyInTheUSA.html" "The Time of Our LIves/PartyInTheUSA.html"
+s282947993.488277
+e282947993.501240
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/PartyInTheUSA.html
+xThe Time of Our LIves/PartyInTheUSA.html
+lSLF07#2@45"Copy The Time of Our LIves/PartyInTheUSA.html282947993#282947993#0(0"0(0#0#67"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheUSA.html4300885448#518"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheUSA.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/SeeYouAgain.html" Breakout/SeeYouAgain.html
+s282947993.433689
+e282947993.484968
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/SeeYouAgain.html
+xBreakout/SeeYouAgain.html
+lSLF07#2@30"Copy Breakout/SeeYouAgain.html282947993#282947993#0(0"0(0#0#52"/Users/sue/iDev/MileyCyrus/Breakout/SeeYouAgain.html4300885448#501"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/SeeYouAgain.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/SimpleSong.html" Breakout/SimpleSong.html
+s282947993.435385
+e282947993.485103
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/SimpleSong.html
+xBreakout/SimpleSong.html
+lSLF07#2@29"Copy Breakout/SimpleSong.html282947993#282947993#0(0"0(0#0#51"/Users/sue/iDev/MileyCyrus/Breakout/SimpleSong.html4300885448#500"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/SimpleSong.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/TalkIsCheap.html" "The Time of Our LIves/TalkIsCheap.html"
+s282947993.488989
+e282947993.516092
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/TalkIsCheap.html
+xThe Time of Our LIves/TalkIsCheap.html
+lSLF07#2@43"Copy The Time of Our LIves/TalkIsCheap.html282947993#282947993#0(0"0(0#0#65"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TalkIsCheap.html4300885448#516"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TalkIsCheap.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/TheClimb.html" "Hannah Montana Movie/TheClimb.html"
+s282947993.463787
+e282947993.485383
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/TheClimb.html
+xHannah Montana Movie/TheClimb.html
+lSLF07#2@39"Copy Hannah Montana Movie/TheClimb.html282947993#282947993#0(0"0(0#0#61"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/TheClimb.html4300885448#512"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/TheClimb.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/TheDriveway.html" Breakout/TheDriveway.html
+s282947993.437067
+e282947993.485241
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/TheDriveway.html
+xBreakout/TheDriveway.html
+lSLF07#2@30"Copy Breakout/TheDriveway.html282947993#282947993#0(0"0(0#0#52"/Users/sue/iDev/MileyCyrus/Breakout/TheDriveway.html4300885448#501"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/TheDriveway.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/TheTimeOfOurLives.html" "The Time of Our LIves/TheTimeOfOurLives.html"
+s282947993.498765
+e282947993.516253
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/TheTimeOfOurLives.html
+xThe Time of Our LIves/TheTimeOfOurLives.html
+lSLF07#2@49"Copy The Time of Our LIves/TheTimeOfOurLives.html282947993#282947993#0(0"0(0#0#71"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TheTimeOfOurLives.html4300885448#522"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TheTimeOfOurLives.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/WakeUpAmerica.html" Breakout/WakeUpAmerica.html
+s282947993.446129
+e282947993.484210
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/WakeUpAmerica.html
+xBreakout/WakeUpAmerica.html
+lSLF07#2@32"Copy Breakout/WakeUpAmerica.html282947993#282947993#0(0"0(0#0#54"/Users/sue/iDev/MileyCyrus/Breakout/WakeUpAmerica.html4300885448#503"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/WakeUpAmerica.html "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/WhenILookAtYou.html" "The Time of Our LIves/WhenILookAtYou.html"
+s282947993.499509
+e282947993.516396
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/WhenILookAtYou.html
+xThe Time of Our LIves/WhenILookAtYou.html
+lSLF07#2@46"Copy The Time of Our LIves/WhenILookAtYou.html282947993#282947993#0(0"0(0#0#68"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/WhenILookAtYou.html4300885448#519"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/WhenILookAtYou.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/caitlin-button.png" caitlin-button.png
+s282947993.402210
+e282947993.423684
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/caitlin-button.png
+xcaitlin-button.png
+lSLF07#2@23"Copy caitlin-button.png282947993#282947993#0(0"0(0#0#45"/Users/sue/iDev/MileyCyrus/caitlin-button.png4300885448#494"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/caitlin-button.png "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/emma-miley-button.png" emma-miley-button.png
+s282947993.409376
+e282947993.424311
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/emma-miley-button.png
+xemma-miley-button.png
+lSLF07#2@26"Copy emma-miley-button.png282947993#282947993#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/emma-miley-button.png4300885448#497"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/emma-miley-button.png "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/icon.png" icon.png
+s282947993.500121
+e282947993.516545
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png282947993#282947993#0(0"0(0#0#35"/Users/sue/iDev/MileyCyrus/icon.png4300885448#484"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/icon.png "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/smallPauseButton.png" smallPauseButton.png
+s282947993.397546
+e282947993.423950
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/smallPauseButton.png
+xsmallPauseButton.png
+lSLF07#2@25"Copy smallPauseButton.png282947993#282947993#0(0"0(0#0#47"/Users/sue/iDev/MileyCyrus/smallPauseButton.png4300885448#496"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/smallPauseButton.png "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/smallPlayButton.png" smallPlayButton.png
+s282947993.396414
+e282947993.423823
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/smallPlayButton.png
+xsmallPlayButton.png
+lSLF07#2@24"Copy smallPlayButton.png282947993#282947993#0(0"0(0#0#46"/Users/sue/iDev/MileyCyrus/smallPlayButton.png4300885448#495"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/smallPlayButton.png "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/smallStopButton.png" smallStopButton.png
+s282947993.399227
+e282947993.424070
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/smallStopButton.png
+xsmallStopButton.png
+lSLF07#2@24"Copy smallStopButton.png282947993#282947993#0(0"0(0#0#46"/Users/sue/iDev/MileyCyrus/smallStopButton.png4300885448#495"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/smallStopButton.png "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Miley Cyrus.app/songStyles.css" songStyles.css
+s282947993.227824
+e282947993.242673
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Miley Cyrus.app/songStyles.css
+xsongStyles.css
+lSLF07#2@19"Copy songStyles.css282947993#282947993#0(0"0(0#0#41"/Users/sue/iDev/MileyCyrus/songStyles.css4300885448#490"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/songStyles.css "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/7Things.html Breakout/7Things.html
+s282947187.022705
+e282947187.060570
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/7Things.html
+xBreakout/7Things.html
+lSLF07#2@26"Copy Breakout/7Things.html282947187#282947187#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/Breakout/7Things.html4300885448#494"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/7Things.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/BeforeTheStorm.html "The Time of Our LIves/BeforeTheStorm.html"
+s282947187.085049
+e282947187.110136
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/BeforeTheStorm.html
+xThe Time of Our LIves/BeforeTheStorm.html
+lSLF07#2@46"Copy The Time of Our LIves/BeforeTheStorm.html282947187#282947187#0(0"0(0#0#68"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/BeforeTheStorm.html4300885448#516"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/BeforeTheStorm.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/BottomOfTheOcean.html Breakout/BottomOfTheOcean.html
+s282947187.024340
+e282947187.044885
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/BottomOfTheOcean.html
+xBreakout/BottomOfTheOcean.html
+lSLF07#2@35"Copy Breakout/BottomOfTheOcean.html282947187#282947187#0(0"0(0#0#57"/Users/sue/iDev/MileyCyrus/Breakout/BottomOfTheOcean.html4300885448#503"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/BottomOfTheOcean.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/Breakout.html Breakout/Breakout.html
+s282947187.026806
+e282947187.056546
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/Breakout.html
+xBreakout/Breakout.html
+lSLF07#2@27"Copy Breakout/Breakout.html282947187#282947187#0(0"0(0#0#49"/Users/sue/iDev/MileyCyrus/Breakout/Breakout.html4300885448#495"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/Breakout.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/ButterflyFlyAway.html "Hannah Montana Movie/ButterflyFlyAway.html"
+s282947187.067259
+e282947187.088323
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/ButterflyFlyAway.html
+xHannah Montana Movie/ButterflyFlyAway.html
+lSLF07#2@47"Copy Hannah Montana Movie/ButterflyFlyAway.html282947187#282947187#0(0"0(0#0#69"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/ButterflyFlyAway.html4300885448#517"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/ButterflyFlyAway.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/Default.png Default.png
+s282947187.019334
+e282947187.117357
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png282947187#282947187#0(0"0(0#0#38"/Users/sue/iDev/MileyCyrus/Default.png4300885448#484"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Default.png /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/DontWalkAway.html "Hannah Montana Movie/DontWalkAway.html"
+s282947187.071908
+e282947187.088190
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/DontWalkAway.html
+xHannah Montana Movie/DontWalkAway.html
+lSLF07#2@43"Copy Hannah Montana Movie/DontWalkAway.html282947187#282947187#0(0"0(0#0#65"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/DontWalkAway.html4300885448#513"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/DontWalkAway.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/Dream.html "Hannah Montana Movie/Dream.html"
+s282947187.078363
+e282947187.094528
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/Dream.html
+xHannah Montana Movie/Dream.html
+lSLF07#2@36"Copy Hannah Montana Movie/Dream.html282947187#282947187#0(0"0(0#0#58"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/Dream.html4300885448#506"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/Dream.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/FlyOnTheWall.html Breakout/FlyOnTheWall.html
+s282947187.028878
+e282947187.054350
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/FlyOnTheWall.html
+xBreakout/FlyOnTheWall.html
+lSLF07#2@31"Copy Breakout/FlyOnTheWall.html282947187#282947187#0(0"0(0#0#53"/Users/sue/iDev/MileyCyrus/Breakout/FlyOnTheWall.html4300885448#499"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/FlyOnTheWall.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/FourWalls.html Breakout/FourWalls.html
+s282947187.030477
+e282947187.067177
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/FourWalls.html
+xBreakout/FourWalls.html
+lSLF07#2@28"Copy Breakout/FourWalls.html282947187#282947187#0(0"0(0#0#50"/Users/sue/iDev/MileyCyrus/Breakout/FourWalls.html4300885448#496"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/FourWalls.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/FullCircle.html Breakout/FullCircle.html
+s282947187.044978
+e282947187.078181
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/FullCircle.html
+xBreakout/FullCircle.html
+lSLF07#2@29"Copy Breakout/FullCircle.html282947187#282947187#0(0"0(0#0#51"/Users/sue/iDev/MileyCyrus/Breakout/FullCircle.html4300885448#497"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/FullCircle.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/GirlsJustWannaHaveFun.html Breakout/GirlsJustWannaHaveFun.html
+s282947187.054444
+e282947187.071817
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/GirlsJustWannaHaveFun.html
+xBreakout/GirlsJustWannaHaveFun.html
+lSLF07#2@40"Copy Breakout/GirlsJustWannaHaveFun.html282947187#282947187#0(0"0(0#0#62"/Users/sue/iDev/MileyCyrus/Breakout/GirlsJustWannaHaveFun.html4300885448#508"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/GirlsJustWannaHaveFun.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/Goodbye.html Breakout/Goodbye.html
+s282947187.056612
+e282947187.082075
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/Goodbye.html
+xBreakout/Goodbye.html
+lSLF07#2@26"Copy Breakout/Goodbye.html282947187#282947187#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/Breakout/Goodbye.html4300885448#494"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/Goodbye.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/HoedownThrowdown.html "Hannah Montana Movie/HoedownThrowdown.html"
+s282947187.080110
+e282947187.099725
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/HoedownThrowdown.html
+xHannah Montana Movie/HoedownThrowdown.html
+lSLF07#2@47"Copy Hannah Montana Movie/HoedownThrowdown.html282947187#282947187#0(0"0(0#0#69"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/HoedownThrowdown.html4300885448#517"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/HoedownThrowdown.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/KickingAndScreaming.html "The Time of Our LIves/KickingAndScreaming.html"
+s282947187.088512
+e282947187.101987
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/KickingAndScreaming.html
+xThe Time of Our LIves/KickingAndScreaming.html
+lSLF07#2@51"Copy The Time of Our LIves/KickingAndScreaming.html282947187#282947187#0(0"0(0#0#73"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/KickingAndScreaming.html4300885448#521"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/KickingAndScreaming.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/Obsessed.html "The Time of Our LIves/Obsessed.html"
+s282947187.090518
+e282947187.108726
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/Obsessed.html
+xThe Time of Our LIves/Obsessed.html
+lSLF07#2@40"Copy The Time of Our LIves/Obsessed.html282947187#282947187#0(0"0(0#0#62"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/Obsessed.html4300885448#510"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/Obsessed.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/PartyInTheUSA.html "The Time of Our LIves/PartyInTheUSA.html"
+s282947187.092444
+e282947187.111220
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/PartyInTheUSA.html
+xThe Time of Our LIves/PartyInTheUSA.html
+lSLF07#2@45"Copy The Time of Our LIves/PartyInTheUSA.html282947187#282947187#0(0"0(0#0#67"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheUSA.html4300885448#515"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheUSA.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/SeeYouAgain.html Breakout/SeeYouAgain.html
+s282947187.058368
+e282947187.088440
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/SeeYouAgain.html
+xBreakout/SeeYouAgain.html
+lSLF07#2@30"Copy Breakout/SeeYouAgain.html282947187#282947187#0(0"0(0#0#52"/Users/sue/iDev/MileyCyrus/Breakout/SeeYouAgain.html4300885448#498"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/SeeYouAgain.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/SimpleSong.html Breakout/SimpleSong.html
+s282947187.060640
+e282947187.094398
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/SimpleSong.html
+xBreakout/SimpleSong.html
+lSLF07#2@29"Copy Breakout/SimpleSong.html282947187#282947187#0(0"0(0#0#51"/Users/sue/iDev/MileyCyrus/Breakout/SimpleSong.html4300885448#497"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/SimpleSong.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/TalkIsCheap.html "The Time of Our LIves/TalkIsCheap.html"
+s282947187.094598
+e282947187.114125
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/TalkIsCheap.html
+xThe Time of Our LIves/TalkIsCheap.html
+lSLF07#2@43"Copy The Time of Our LIves/TalkIsCheap.html282947187#282947187#0(0"0(0#0#65"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TalkIsCheap.html4300885448#513"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TalkIsCheap.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/TheClimb.html "Hannah Montana Movie/TheClimb.html"
+s282947187.082154
+e282947187.102113
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/TheClimb.html
+xHannah Montana Movie/TheClimb.html
+lSLF07#2@39"Copy Hannah Montana Movie/TheClimb.html282947187#282947187#0(0"0(0#0#61"/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/TheClimb.html4300885448#509"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/Hannah Montana Movie/TheClimb.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/TheDriveway.html Breakout/TheDriveway.html
+s282947187.062286
+e282947187.084966
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/TheDriveway.html
+xBreakout/TheDriveway.html
+lSLF07#2@30"Copy Breakout/TheDriveway.html282947187#282947187#0(0"0(0#0#52"/Users/sue/iDev/MileyCyrus/Breakout/TheDriveway.html4300885448#498"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/TheDriveway.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/TheTimeOfOurLives.html "The Time of Our LIves/TheTimeOfOurLives.html"
+s282947187.096484
+e282947187.118681
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/TheTimeOfOurLives.html
+xThe Time of Our LIves/TheTimeOfOurLives.html
+lSLF07#2@49"Copy The Time of Our LIves/TheTimeOfOurLives.html282947187#282947187#0(0"0(0#0#71"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TheTimeOfOurLives.html4300885448#519"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TheTimeOfOurLives.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/WakeUpAmerica.html Breakout/WakeUpAmerica.html
+s282947187.065729
+e282947187.078047
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/WakeUpAmerica.html
+xBreakout/WakeUpAmerica.html
+lSLF07#2@32"Copy Breakout/WakeUpAmerica.html282947187#282947187#0(0"0(0#0#54"/Users/sue/iDev/MileyCyrus/Breakout/WakeUpAmerica.html4300885448#500"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/Breakout/WakeUpAmerica.html /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/WhenILookAtYou.html "The Time of Our LIves/WhenILookAtYou.html"
+s282947187.099808
+e282947187.106531
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/WhenILookAtYou.html
+xThe Time of Our LIves/WhenILookAtYou.html
+lSLF07#2@46"Copy The Time of Our LIves/WhenILookAtYou.html282947187#282947187#0(0"0(0#0#68"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/WhenILookAtYou.html4300885448#516"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/WhenILookAtYou.html" /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/caitlin-button.png caitlin-button.png
+s282947187.017696
+e282947187.060455
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/caitlin-button.png
+xcaitlin-button.png
+lSLF07#2@23"Copy caitlin-button.png282947187#282947187#0(0"0(0#0#45"/Users/sue/iDev/MileyCyrus/caitlin-button.png4300885448#491"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/caitlin-button.png /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/emma-miley-button.png emma-miley-button.png
+s282947187.021003
+e282947187.056424
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/emma-miley-button.png
+xemma-miley-button.png
+lSLF07#2@26"Copy emma-miley-button.png282947187#282947187#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/emma-miley-button.png4300885448#494"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/emma-miley-button.png /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/icon.png icon.png
+s282947186.925051
+e282947186.938184
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png282947186#282947186#0(0"0(0#0#35"/Users/sue/iDev/MileyCyrus/icon.png4300885448#481"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/icon.png /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/smallPauseButton.png smallPauseButton.png
+s282947187.014787
+e282947187.060330
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/smallPauseButton.png
+xsmallPauseButton.png
+lSLF07#2@25"Copy smallPauseButton.png282947187#282947187#0(0"0(0#0#47"/Users/sue/iDev/MileyCyrus/smallPauseButton.png4300885448#493"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/smallPauseButton.png /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/smallPlayButton.png smallPlayButton.png
+s282947187.014022
+e282947187.028687
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/smallPlayButton.png
+xsmallPlayButton.png
+lSLF07#2@24"Copy smallPlayButton.png282947187#282947187#0(0"0(0#0#46"/Users/sue/iDev/MileyCyrus/smallPlayButton.png4300885448#492"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/smallPlayButton.png /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/smallStopButton.png smallStopButton.png
+s282947187.016540
+e282947187.028811
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/smallStopButton.png
+xsmallStopButton.png
+lSLF07#2@24"Copy smallStopButton.png282947187#282947187#0(0"0(0#0#46"/Users/sue/iDev/MileyCyrus/smallStopButton.png4300885448#492"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/smallStopButton.png /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CCpResource build/Debug-iphonesimulator/MileyCyrus.app/songStyles.css songStyles.css
+s282947186.924239
+e282947186.936596
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MileyCyrus.app/songStyles.css
+xsongStyles.css
+lSLF07#2@19"Copy songStyles.css282947186#282947186#0(0"0(0#0#41"/Users/sue/iDev/MileyCyrus/songStyles.css4300885448#487"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sue/iDev/MileyCyrus/songStyles.css /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+
+CGenerateDSYMFile "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app.dSYM" "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus"
+s282947995.513018
+e282947995.536091
+r1
+xGenerateDSYMFile
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app.dSYM
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus
+lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/Miley Cyrus.app.dSYM" "build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus"282947995#282947995#0(0"0(0#0#82"/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus4300885448#425"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus" -o "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app.dSYM /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus
+s282947312.038526
+e282947312.058451
+r1
+xGenerateDSYMFile
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app.dSYM
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/MileyCyrus.app.dSYM build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus282947312#282947312#0(0"0(0#0#80"/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus4300885448#418"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus -o /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app.dSYM0#
+
+CLd "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus" normal i386
+s282947995.487659
+e282947995.512888
+r1
+xLd
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus
+xnormal
+xi386
+lSLF07#2@87"Link /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus282947995#282947995#0(0"0(0#0#0"4300885448#911"    cd /Users/sue/iDev/MileyCyrus    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -filelist "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/Miley Cyrus.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Miley Cyrus"0#
+
+CLd /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus normal i386
+s282947312.013057
+e282947312.038403
+r1
+xLd
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus
+xnormal
+xi386
+lSLF07#2@85"Link /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus282947312#282947312#0(0"0(0#0#0"4300885448#904"    cd /Users/sue/iDev/MileyCyrus    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -filelist /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Objects-normal/i386/MileyCyrus.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/MileyCyrus0#
+
+CProcessInfoPlistFile "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Info.plist" MileyCyrus-Info.plist
+s282947992.782476
+e282947992.788349
+r1
+xProcessInfoPlistFile
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Info.plist
+xMileyCyrus-Info.plist
+lSLF07#2@29"Process MileyCyrus-Info.plist282947992#282947992#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/MileyCyrus-Info.plist4300885448#520"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility MileyCyrus-Info.plist -genpkginfo "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Info.plist MileyCyrus-Info.plist
+s282947186.304772
+e282947186.329015
+r1
+xProcessInfoPlistFile
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Info.plist
+xMileyCyrus-Info.plist
+lSLF07#2@29"Process MileyCyrus-Info.plist282947186#282947186#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/MileyCyrus-Info.plist27303536605069420#514"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility MileyCyrus-Info.plist -genpkginfo /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app/Info.plist0#
+
+CProcessPCH /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch.gch MileyCyrus_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s282947993.654918
+e282947995.157930
+r1
+xProcessPCH
+x/var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch.gch
+xMileyCyrus_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MileyCyrus_Prefix.pch282947993#282947995#0(0"0(0#0#48"/Users/sue/iDev/MileyCyrus/MileyCyrus_Prefix.pch4300885448#1762"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator -I/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources/i386 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphonesimulator/MileyCyrus.build/DerivedSources -c /Users/sue/iDev/MileyCyrus/MileyCyrus_Prefix.pch -o /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fwifvovyuydafsbfhtpeyccnzaff/MileyCyrus_Prefix.pch.gch0#
+
+CTouch "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"
+s282947995.536196
+e282947995.541267
+r1
+xTouch
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app
+lSLF07#2@76"Touch /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app282947995#282947995#0(0"0(0#0#0"4300885448#322"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/Miley Cyrus.app"0#
+
+CTouch /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app
+s282947312.058541
+e282947312.061146
+r1
+xTouch
+x/Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app
+lSLF07#2@75"Touch /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app282947312#282947312#0(0"0(0#0#0"4300885448#319"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/sue/iDev/MileyCyrus/build/Debug-iphonesimulator/MileyCyrus.app0#
+

@@ -1,0 +1,477 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* TaylorSwiftAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* TaylorSwiftAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		280E754D0DD40C5E005A515E /* FlipsideView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754A0DD40C5E005A515E /* FlipsideView.xib */; };
+		280E754E0DD40C5E005A515E /* MainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754B0DD40C5E005A515E /* MainView.xib */; };
+		280E754F0DD40C5E005A515E /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754C0DD40C5E005A515E /* MainWindow.xib */; };
+		288765590DF743DE002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765580DF743DE002DB57D /* CoreGraphics.framework */; };
+		289233A60DB2D0840083E9F9 /* FlipsideView.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */; };
+		289233A70DB2D0840083E9F9 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A50DB2D0840083E9F9 /* MainView.m */; };
+		289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */; };
+		289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */; };
+		801BC50510D57B0900DE7DD8 /* songStyles.css in Resources */ = {isa = PBXBuildFile; fileRef = 801BC50410D57B0900DE7DD8 /* songStyles.css */; };
+		805BFE2510DD690100DA15D6 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE2410DD690100DA15D6 /* Default.png */; };
+		805BFE2710DD690900DA15D6 /* emma-miley-button.png in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE2610DD690900DA15D6 /* emma-miley-button.png */; };
+		805BFEAE10DD6E6D00DA15D6 /* 7Things.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9410DD6E6D00DA15D6 /* 7Things.html */; };
+		805BFEAF10DD6E6D00DA15D6 /* BottomOfTheOcean.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9510DD6E6D00DA15D6 /* BottomOfTheOcean.html */; };
+		805BFEB010DD6E6D00DA15D6 /* Breakout.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9610DD6E6D00DA15D6 /* Breakout.html */; };
+		805BFEB110DD6E6D00DA15D6 /* FlyOnTheWall.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9710DD6E6D00DA15D6 /* FlyOnTheWall.html */; };
+		805BFEB210DD6E6D00DA15D6 /* FourWalls.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9810DD6E6D00DA15D6 /* FourWalls.html */; };
+		805BFEB310DD6E6D00DA15D6 /* FullCircle.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9910DD6E6D00DA15D6 /* FullCircle.html */; };
+		805BFEB410DD6E6D00DA15D6 /* GirlsJustWannaHaveFun.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9A10DD6E6D00DA15D6 /* GirlsJustWannaHaveFun.html */; };
+		805BFEB510DD6E6D00DA15D6 /* Goodbye.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9B10DD6E6D00DA15D6 /* Goodbye.html */; };
+		805BFEB610DD6E6D00DA15D6 /* SeeYouAgain.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9C10DD6E6D00DA15D6 /* SeeYouAgain.html */; };
+		805BFEB710DD6E6D00DA15D6 /* SimpleSong.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9D10DD6E6D00DA15D6 /* SimpleSong.html */; };
+		805BFEB810DD6E6D00DA15D6 /* TheDriveway.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9E10DD6E6D00DA15D6 /* TheDriveway.html */; };
+		805BFEB910DD6E6D00DA15D6 /* WakeUpAmerica.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFE9F10DD6E6D00DA15D6 /* WakeUpAmerica.html */; };
+		805BFEBA10DD6E6D00DA15D6 /* ButterflyFlyAway.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEA110DD6E6D00DA15D6 /* ButterflyFlyAway.html */; };
+		805BFEBB10DD6E6D00DA15D6 /* DontWalkAway.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEA210DD6E6D00DA15D6 /* DontWalkAway.html */; };
+		805BFEBC10DD6E6D00DA15D6 /* Dream.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEA310DD6E6D00DA15D6 /* Dream.html */; };
+		805BFEBD10DD6E6D00DA15D6 /* HoedownThrowdown.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEA410DD6E6D00DA15D6 /* HoedownThrowdown.html */; };
+		805BFEBE10DD6E6D00DA15D6 /* TheClimb.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEA510DD6E6D00DA15D6 /* TheClimb.html */; };
+		805BFEBF10DD6E6D00DA15D6 /* BeforeTheStorm.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEA710DD6E6D00DA15D6 /* BeforeTheStorm.html */; };
+		805BFEC010DD6E6D00DA15D6 /* KickingAndScreaming.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEA810DD6E6D00DA15D6 /* KickingAndScreaming.html */; };
+		805BFEC110DD6E6D00DA15D6 /* Obsessed.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEA910DD6E6D00DA15D6 /* Obsessed.html */; };
+		805BFEC210DD6E6D00DA15D6 /* PartyInTheUSA.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEAA10DD6E6D00DA15D6 /* PartyInTheUSA.html */; };
+		805BFEC310DD6E6D00DA15D6 /* TalkIsCheap.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEAB10DD6E6D00DA15D6 /* TalkIsCheap.html */; };
+		805BFEC410DD6E6D00DA15D6 /* TheTimeOfOurLives.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEAC10DD6E6D00DA15D6 /* TheTimeOfOurLives.html */; };
+		805BFEC510DD6E6D00DA15D6 /* WhenILookAtYou.html in Resources */ = {isa = PBXBuildFile; fileRef = 805BFEAD10DD6E6D00DA15D6 /* WhenILookAtYou.html */; };
+		805BFF2710DD71E800DA15D6 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 805BFF2610DD71E800DA15D6 /* icon.png */; };
+		806F77D810D5A846008FAF4F /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 806F77D710D5A846008FAF4F /* MediaPlayer.framework */; };
+		80863CE810D87C5700EDBC58 /* SplashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80863CE610D87C5700EDBC58 /* SplashViewController.m */; };
+		80863CE910D87C5700EDBC58 /* SplashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 80863CE710D87C5700EDBC58 /* SplashViewController.xib */; };
+		80863E1710D89BC800EDBC58 /* smallPlayButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 80863E1610D89BC800EDBC58 /* smallPlayButton.png */; };
+		80863E2410D89C5100EDBC58 /* smallPauseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 80863E2310D89C5100EDBC58 /* smallPauseButton.png */; };
+		80863E2610D89C5500EDBC58 /* smallStopButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 80863E2510D89C5500EDBC58 /* smallStopButton.png */; };
+		80D88D3310DD48140095D9B3 /* caitlin-button.png in Resources */ = {isa = PBXBuildFile; fileRef = 80D88D3210DD48140095D9B3 /* caitlin-button.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* TaylorSwiftAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TaylorSwiftAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* TaylorSwiftAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TaylorSwiftAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Miley Cyrus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Miley Cyrus.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		280E754A0DD40C5E005A515E /* FlipsideView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FlipsideView.xib; sourceTree = "<group>"; };
+		280E754B0DD40C5E005A515E /* MainView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainView.xib; sourceTree = "<group>"; };
+		280E754C0DD40C5E005A515E /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		288765580DF743DE002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		289233A20DB2D0840083E9F9 /* FlipsideView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlipsideView.h; path = Classes/FlipsideView.h; sourceTree = "<group>"; };
+		289233A30DB2D0840083E9F9 /* FlipsideView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FlipsideView.m; path = Classes/FlipsideView.m; sourceTree = "<group>"; };
+		289233A40DB2D0840083E9F9 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainView.h; path = Classes/MainView.h; sourceTree = "<group>"; };
+		289233A50DB2D0840083E9F9 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainView.m; path = Classes/MainView.m; sourceTree = "<group>"; };
+		289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainViewController.h; path = Classes/MainViewController.h; sourceTree = "<group>"; };
+		289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainViewController.m; path = Classes/MainViewController.m; sourceTree = "<group>"; };
+		289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlipsideViewController.h; path = Classes/FlipsideViewController.h; sourceTree = "<group>"; };
+		289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FlipsideViewController.m; path = Classes/FlipsideViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* MileyCyrus_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MileyCyrus_Prefix.pch; sourceTree = "<group>"; };
+		801BC50410D57B0900DE7DD8 /* songStyles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = songStyles.css; sourceTree = "<group>"; };
+		805BFE2410DD690100DA15D6 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		805BFE2610DD690900DA15D6 /* emma-miley-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "emma-miley-button.png"; sourceTree = "<group>"; };
+		805BFE9410DD6E6D00DA15D6 /* 7Things.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 7Things.html; sourceTree = "<group>"; };
+		805BFE9510DD6E6D00DA15D6 /* BottomOfTheOcean.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BottomOfTheOcean.html; sourceTree = "<group>"; };
+		805BFE9610DD6E6D00DA15D6 /* Breakout.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Breakout.html; sourceTree = "<group>"; };
+		805BFE9710DD6E6D00DA15D6 /* FlyOnTheWall.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = FlyOnTheWall.html; sourceTree = "<group>"; };
+		805BFE9810DD6E6D00DA15D6 /* FourWalls.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = FourWalls.html; sourceTree = "<group>"; };
+		805BFE9910DD6E6D00DA15D6 /* FullCircle.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = FullCircle.html; sourceTree = "<group>"; };
+		805BFE9A10DD6E6D00DA15D6 /* GirlsJustWannaHaveFun.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = GirlsJustWannaHaveFun.html; sourceTree = "<group>"; };
+		805BFE9B10DD6E6D00DA15D6 /* Goodbye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Goodbye.html; sourceTree = "<group>"; };
+		805BFE9C10DD6E6D00DA15D6 /* SeeYouAgain.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SeeYouAgain.html; sourceTree = "<group>"; };
+		805BFE9D10DD6E6D00DA15D6 /* SimpleSong.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SimpleSong.html; sourceTree = "<group>"; };
+		805BFE9E10DD6E6D00DA15D6 /* TheDriveway.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = TheDriveway.html; sourceTree = "<group>"; };
+		805BFE9F10DD6E6D00DA15D6 /* WakeUpAmerica.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = WakeUpAmerica.html; sourceTree = "<group>"; };
+		805BFEA110DD6E6D00DA15D6 /* ButterflyFlyAway.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = ButterflyFlyAway.html; sourceTree = "<group>"; };
+		805BFEA210DD6E6D00DA15D6 /* DontWalkAway.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = DontWalkAway.html; sourceTree = "<group>"; };
+		805BFEA310DD6E6D00DA15D6 /* Dream.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Dream.html; sourceTree = "<group>"; };
+		805BFEA410DD6E6D00DA15D6 /* HoedownThrowdown.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = HoedownThrowdown.html; sourceTree = "<group>"; };
+		805BFEA510DD6E6D00DA15D6 /* TheClimb.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = TheClimb.html; sourceTree = "<group>"; };
+		805BFEA710DD6E6D00DA15D6 /* BeforeTheStorm.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BeforeTheStorm.html; sourceTree = "<group>"; };
+		805BFEA810DD6E6D00DA15D6 /* KickingAndScreaming.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = KickingAndScreaming.html; sourceTree = "<group>"; };
+		805BFEA910DD6E6D00DA15D6 /* Obsessed.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Obsessed.html; sourceTree = "<group>"; };
+		805BFEAA10DD6E6D00DA15D6 /* PartyInTheUSA.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = PartyInTheUSA.html; sourceTree = "<group>"; };
+		805BFEAB10DD6E6D00DA15D6 /* TalkIsCheap.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = TalkIsCheap.html; sourceTree = "<group>"; };
+		805BFEAC10DD6E6D00DA15D6 /* TheTimeOfOurLives.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = TheTimeOfOurLives.html; sourceTree = "<group>"; };
+		805BFEAD10DD6E6D00DA15D6 /* WhenILookAtYou.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = WhenILookAtYou.html; sourceTree = "<group>"; };
+		805BFF2610DD71E800DA15D6 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		806F77D710D5A846008FAF4F /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		80863CE510D87C5700EDBC58 /* SplashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SplashViewController.h; sourceTree = "<group>"; };
+		80863CE610D87C5700EDBC58 /* SplashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SplashViewController.m; sourceTree = "<group>"; };
+		80863CE710D87C5700EDBC58 /* SplashViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SplashViewController.xib; sourceTree = "<group>"; };
+		80863E1610D89BC800EDBC58 /* smallPlayButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallPlayButton.png; sourceTree = "<group>"; };
+		80863E2310D89C5100EDBC58 /* smallPauseButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallPauseButton.png; sourceTree = "<group>"; };
+		80863E2510D89C5500EDBC58 /* smallStopButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallStopButton.png; sourceTree = "<group>"; };
+		80D88D3210DD48140095D9B3 /* caitlin-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "caitlin-button.png"; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* MileyCyrus-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MileyCyrus-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765590DF743DE002DB57D /* CoreGraphics.framework in Frameworks */,
+				806F77D810D5A846008FAF4F /* MediaPlayer.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Application Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* TaylorSwiftAppDelegate.h */,
+				1D3623250D0F684500981E51 /* TaylorSwiftAppDelegate.m */,
+			);
+			name = "Application Delegate";
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Miley Cyrus.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		281C6CD70DB2D82200F60ACC /* Flipside View */ = {
+			isa = PBXGroup;
+			children = (
+				289233A20DB2D0840083E9F9 /* FlipsideView.h */,
+				289233A30DB2D0840083E9F9 /* FlipsideView.m */,
+				289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */,
+				289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */,
+			);
+			name = "Flipside View";
+			sourceTree = "<group>";
+		};
+		289233A00DB2D0730083E9F9 /* Main View */ = {
+			isa = PBXGroup;
+			children = (
+				289233A40DB2D0840083E9F9 /* MainView.h */,
+				289233A50DB2D0840083E9F9 /* MainView.m */,
+				289233A80DB2D0DB0083E9F9 /* MainViewController.h */,
+				289233A90DB2D0DB0083E9F9 /* MainViewController.m */,
+			);
+			name = "Main View";
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				804C252710D7156C006D13AA /* Splash View */,
+				805CDA1810D4342F00D0F1D7 /* HTML */,
+				289233A00DB2D0730083E9F9 /* Main View */,
+				281C6CD70DB2D82200F60ACC /* Flipside View */,
+				080E96DDFE201D6D7F000001 /* Application Delegate */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* MileyCyrus_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				805BFF2610DD71E800DA15D6 /* icon.png */,
+				805BFE2610DD690900DA15D6 /* emma-miley-button.png */,
+				805BFE2410DD690100DA15D6 /* Default.png */,
+				80D88D3210DD48140095D9B3 /* caitlin-button.png */,
+				80863E1610D89BC800EDBC58 /* smallPlayButton.png */,
+				80863E2510D89C5500EDBC58 /* smallStopButton.png */,
+				80863E2310D89C5100EDBC58 /* smallPauseButton.png */,
+				280E754A0DD40C5E005A515E /* FlipsideView.xib */,
+				280E754B0DD40C5E005A515E /* MainView.xib */,
+				280E754C0DD40C5E005A515E /* MainWindow.xib */,
+				80863CE710D87C5700EDBC58 /* SplashViewController.xib */,
+				8D1107310486CEB800E47090 /* MileyCyrus-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765580DF743DE002DB57D /* CoreGraphics.framework */,
+				806F77D710D5A846008FAF4F /* MediaPlayer.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		804C252710D7156C006D13AA /* Splash View */ = {
+			isa = PBXGroup;
+			children = (
+				80863CE510D87C5700EDBC58 /* SplashViewController.h */,
+				80863CE610D87C5700EDBC58 /* SplashViewController.m */,
+			);
+			name = "Splash View";
+			sourceTree = "<group>";
+		};
+		805BFE9310DD6E6D00DA15D6 /* Breakout */ = {
+			isa = PBXGroup;
+			children = (
+				805BFE9410DD6E6D00DA15D6 /* 7Things.html */,
+				805BFE9510DD6E6D00DA15D6 /* BottomOfTheOcean.html */,
+				805BFE9610DD6E6D00DA15D6 /* Breakout.html */,
+				805BFE9710DD6E6D00DA15D6 /* FlyOnTheWall.html */,
+				805BFE9810DD6E6D00DA15D6 /* FourWalls.html */,
+				805BFE9910DD6E6D00DA15D6 /* FullCircle.html */,
+				805BFE9A10DD6E6D00DA15D6 /* GirlsJustWannaHaveFun.html */,
+				805BFE9B10DD6E6D00DA15D6 /* Goodbye.html */,
+				805BFE9C10DD6E6D00DA15D6 /* SeeYouAgain.html */,
+				805BFE9D10DD6E6D00DA15D6 /* SimpleSong.html */,
+				805BFE9E10DD6E6D00DA15D6 /* TheDriveway.html */,
+				805BFE9F10DD6E6D00DA15D6 /* WakeUpAmerica.html */,
+			);
+			path = Breakout;
+			sourceTree = "<group>";
+		};
+		805BFEA010DD6E6D00DA15D6 /* Hannah Montana Movie */ = {
+			isa = PBXGroup;
+			children = (
+				805BFEA110DD6E6D00DA15D6 /* ButterflyFlyAway.html */,
+				805BFEA210DD6E6D00DA15D6 /* DontWalkAway.html */,
+				805BFEA310DD6E6D00DA15D6 /* Dream.html */,
+				805BFEA410DD6E6D00DA15D6 /* HoedownThrowdown.html */,
+				805BFEA510DD6E6D00DA15D6 /* TheClimb.html */,
+			);
+			path = "Hannah Montana Movie";
+			sourceTree = "<group>";
+		};
+		805BFEA610DD6E6D00DA15D6 /* The Time of Our LIves */ = {
+			isa = PBXGroup;
+			children = (
+				805BFEA710DD6E6D00DA15D6 /* BeforeTheStorm.html */,
+				805BFEA810DD6E6D00DA15D6 /* KickingAndScreaming.html */,
+				805BFEA910DD6E6D00DA15D6 /* Obsessed.html */,
+				805BFEAA10DD6E6D00DA15D6 /* PartyInTheUSA.html */,
+				805BFEAB10DD6E6D00DA15D6 /* TalkIsCheap.html */,
+				805BFEAC10DD6E6D00DA15D6 /* TheTimeOfOurLives.html */,
+				805BFEAD10DD6E6D00DA15D6 /* WhenILookAtYou.html */,
+			);
+			path = "The Time of Our LIves";
+			sourceTree = "<group>";
+		};
+		805CDA1810D4342F00D0F1D7 /* HTML */ = {
+			isa = PBXGroup;
+			children = (
+				805BFE9310DD6E6D00DA15D6 /* Breakout */,
+				805BFEA010DD6E6D00DA15D6 /* Hannah Montana Movie */,
+				805BFEA610DD6E6D00DA15D6 /* The Time of Our LIves */,
+				801BC50410D57B0900DE7DD8 /* songStyles.css */,
+			);
+			name = HTML;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* MileyCyrus */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MileyCyrus" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MileyCyrus;
+			productName = TaylorSwift;
+			productReference = 1D6058910D05DD3D006BFB54 /* Miley Cyrus.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MileyCyrus" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* MileyCyrus */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				280E754D0DD40C5E005A515E /* FlipsideView.xib in Resources */,
+				280E754E0DD40C5E005A515E /* MainView.xib in Resources */,
+				280E754F0DD40C5E005A515E /* MainWindow.xib in Resources */,
+				801BC50510D57B0900DE7DD8 /* songStyles.css in Resources */,
+				80863CE910D87C5700EDBC58 /* SplashViewController.xib in Resources */,
+				80863E1710D89BC800EDBC58 /* smallPlayButton.png in Resources */,
+				80863E2410D89C5100EDBC58 /* smallPauseButton.png in Resources */,
+				80863E2610D89C5500EDBC58 /* smallStopButton.png in Resources */,
+				80D88D3310DD48140095D9B3 /* caitlin-button.png in Resources */,
+				805BFE2510DD690100DA15D6 /* Default.png in Resources */,
+				805BFE2710DD690900DA15D6 /* emma-miley-button.png in Resources */,
+				805BFEAE10DD6E6D00DA15D6 /* 7Things.html in Resources */,
+				805BFEAF10DD6E6D00DA15D6 /* BottomOfTheOcean.html in Resources */,
+				805BFEB010DD6E6D00DA15D6 /* Breakout.html in Resources */,
+				805BFEB110DD6E6D00DA15D6 /* FlyOnTheWall.html in Resources */,
+				805BFEB210DD6E6D00DA15D6 /* FourWalls.html in Resources */,
+				805BFEB310DD6E6D00DA15D6 /* FullCircle.html in Resources */,
+				805BFEB410DD6E6D00DA15D6 /* GirlsJustWannaHaveFun.html in Resources */,
+				805BFEB510DD6E6D00DA15D6 /* Goodbye.html in Resources */,
+				805BFEB610DD6E6D00DA15D6 /* SeeYouAgain.html in Resources */,
+				805BFEB710DD6E6D00DA15D6 /* SimpleSong.html in Resources */,
+				805BFEB810DD6E6D00DA15D6 /* TheDriveway.html in Resources */,
+				805BFEB910DD6E6D00DA15D6 /* WakeUpAmerica.html in Resources */,
+				805BFEBA10DD6E6D00DA15D6 /* ButterflyFlyAway.html in Resources */,
+				805BFEBB10DD6E6D00DA15D6 /* DontWalkAway.html in Resources */,
+				805BFEBC10DD6E6D00DA15D6 /* Dream.html in Resources */,
+				805BFEBD10DD6E6D00DA15D6 /* HoedownThrowdown.html in Resources */,
+				805BFEBE10DD6E6D00DA15D6 /* TheClimb.html in Resources */,
+				805BFEBF10DD6E6D00DA15D6 /* BeforeTheStorm.html in Resources */,
+				805BFEC010DD6E6D00DA15D6 /* KickingAndScreaming.html in Resources */,
+				805BFEC110DD6E6D00DA15D6 /* Obsessed.html in Resources */,
+				805BFEC210DD6E6D00DA15D6 /* PartyInTheUSA.html in Resources */,
+				805BFEC310DD6E6D00DA15D6 /* TalkIsCheap.html in Resources */,
+				805BFEC410DD6E6D00DA15D6 /* TheTimeOfOurLives.html in Resources */,
+				805BFEC510DD6E6D00DA15D6 /* WhenILookAtYou.html in Resources */,
+				805BFF2710DD71E800DA15D6 /* icon.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* TaylorSwiftAppDelegate.m in Sources */,
+				289233A60DB2D0840083E9F9 /* FlipsideView.m in Sources */,
+				289233A70DB2D0840083E9F9 /* MainView.m in Sources */,
+				289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */,
+				289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */,
+				80863CE810D87C5700EDBC58 /* SplashViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MileyCyrus_Prefix.pch;
+				INFOPLIST_FILE = "MileyCyrus-Info.plist";
+				PRODUCT_NAME = "Miley Cyrus";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MileyCyrus_Prefix.pch;
+				INFOPLIST_FILE = "MileyCyrus-Info.plist";
+				PRODUCT_NAME = MileyCyrus;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MileyCyrus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MileyCyrus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
