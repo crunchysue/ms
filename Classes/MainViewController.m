@@ -46,9 +46,9 @@
 		
 		self.songListTimeOfOurLives = [NSArray arrayWithObjects:
 									   @"Kicking And Screaming",
-									   @"Party In The USA",
+									   @"Party In The U.S.A",
 									   @"When I Look At You",
-									   @"The Time Of Our Lives",
+									   @"Time Of Our Lives",
 									   @"Talk Is Cheap",
 									   @"Obsessed",
 									   @"Before The Storm",

@@ -1,7 +1,7 @@
 TMileyCyrus
 v7
 r0
-t282948497.507109
+t283025041.722036
 cCheck dependencies
 cCpResource "build/Debug-iphoneos/Miley Cyrus.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
 cProcessInfoPlistFile "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Info.plist" MileyCyrus-Info.plist
@@ -36,9 +36,9 @@ cCpResource "build/Debug-iphoneos/Miley Cyrus.app/TheClimb.html" "Hannah Montana
 cCpResource "build/Debug-iphoneos/Miley Cyrus.app/BeforeTheStorm.html" "The Time of Our LIves/BeforeTheStorm.html"
 cCpResource "build/Debug-iphoneos/Miley Cyrus.app/KickingAndScreaming.html" "The Time of Our LIves/KickingAndScreaming.html"
 cCpResource "build/Debug-iphoneos/Miley Cyrus.app/Obsessed.html" "The Time of Our LIves/Obsessed.html"
-cCpResource "build/Debug-iphoneos/Miley Cyrus.app/PartyInTheUSA.html" "The Time of Our LIves/PartyInTheUSA.html"
+cCpResource "build/Debug-iphoneos/Miley Cyrus.app/PartyInTheU.S.A.html" "The Time of Our LIves/PartyInTheU.S.A.html"
 cCpResource "build/Debug-iphoneos/Miley Cyrus.app/TalkIsCheap.html" "The Time of Our LIves/TalkIsCheap.html"
-cCpResource "build/Debug-iphoneos/Miley Cyrus.app/TheTimeOfOurLives.html" "The Time of Our LIves/TheTimeOfOurLives.html"
+cCpResource "build/Debug-iphoneos/Miley Cyrus.app/TimeOfOurLives.html" "The Time of Our LIves/TimeOfOurLives.html"
 cCpResource "build/Debug-iphoneos/Miley Cyrus.app/WhenILookAtYou.html" "The Time of Our LIves/WhenILookAtYou.html"
 cCopyPNGFile "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/icon.png" icon.png
 cProcessPCH /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fyytnfqrvbtiqabwvyepubfmhjvl/MileyCyrus_Prefix.pch.gch MileyCyrus_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
@@ -240,9 +240,9 @@ s769
 i"FlipsideViewController.h"
 
 N/Users/sue/iDev/MileyCyrus/Classes/MainViewController.m
-c000000004B2D376F000000000000157C
-t1261254511
-s5500
+c000000004B2E6710000000000000157A
+t1261332240
+s5498
 i"MainViewController.h"
 i"MainView.h"
 
@@ -439,6 +439,16 @@ c000000004B2D1AC500000000000005D2
 t1261247173
 s1490
 
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheU.S.A..html
+c000000004B2D1AC500000000000007F5
+t1261247173
+s2037
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheU.S.A.html
+c000000004B2D1AC500000000000007F5
+t1261247173
+s2037
+
 N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheUSA.html
 c000000004B2D1AC500000000000007F5
 t1261247173
@@ -450,6 +460,11 @@ t1261255669
 s2244
 
 N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TheTimeOfOurLives.html
+c000000004B2D1AC5000000000000078E
+t1261247173
+s1934
+
+N/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TimeOfOurLives.html
 c000000004B2D1AC5000000000000078E
 t1261247173
 s1934
@@ -510,11 +525,11 @@ t1260748178
 s1965
 
 N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app
-t1261255697
-s1530
+t1261332241
+s1632
 
 N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app.dSYM
-t1261255290
+t1261332241
 s102
 
 N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/7Things.html
@@ -594,12 +609,20 @@ t1261255288
 s1383
 
 N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus
-t1261255290
-s50640
+t1261332241
+s44716
 
 N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Obsessed.html
 t1261255288
 s1490
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/PartyInTheU.S.A..html
+t1261332157
+s2037
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/PartyInTheU.S.A.html
+t1261331971
+s2037
 
 N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/PartyInTheUSA.html
 t1261255288
@@ -639,6 +662,10 @@ s2310
 
 N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/TheTimeOfOurLives.html
 t1261255288
+s1934
+
+N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/TimeOfOurLives.html
+t1261331971
 s1934
 
 N/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/WakeUpAmerica.html
@@ -902,8 +929,8 @@ t1261255290
 s9524
 
 N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/MainViewController.o
-t1261255290
-s56564
+t1261332241
+s56560
 
 N/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/Miley Cyrus.LinkFileList
 c000000004B2D3A770000000000000350
@@ -979,16 +1006,15 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies282948497#282948497#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies283025041#283025041#0(0"0(0#1#0"4300885448#0"0#
 
 CCodeSign "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"
-s282948497.091038
-e282948497.507061
+s283025041.371419
+e283025041.721995
 r1
 xCodeSign
 x/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app
-o/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app: replacing existing signature
-lSLF07#2@47"CodeSign "build/Debug-iphoneos/Miley Cyrus.app"282948497#282948497#0(94"/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app: replacing existing signature0(0#0#63"/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app4300885448#681"    cd /Users/sue/iDev/MileyCyrus    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/codesign -f -s "iPhone Developer: Sue Brown (KFMST6PZZ9)" "--resource-rules=/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/ResourceRules.plist" --entitlements "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus.xcent" "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
+lSLF07#2@47"CodeSign "build/Debug-iphoneos/Miley Cyrus.app"283025041#283025041#0(0"0(0#0#63"/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app4300885448#681"    cd /Users/sue/iDev/MileyCyrus    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/codesign -f -s "iPhone Developer: Sue Brown (KFMST6PZZ9)" "--resource-rules=/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/ResourceRules.plist" --entitlements "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus.xcent" "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
 
 CCodeSign /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/MileyCyrus.app
 r0
@@ -1033,8 +1059,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@53"Compile /Users/sue/iDev/MileyCyrus/Classes/MainView.m282948090#282948090#0(0"0(0#0#45"/Users/sue/iDev/MileyCyrus/Classes/MainView.m4300885448#1746"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos -I/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/DerivedSources/armv6 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fyytnfqrvbtiqabwvyepubfmhjvl/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/Classes/MainView.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/MainView.o0#
 
 CCompileC build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/MainViewController.o /Users/sue/iDev/MileyCyrus/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s282948090.279627
-e282948090.403916
+s283025041.162102
+e283025041.310908
 r1
 xCompileC
 xbuild/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/MainViewController.o
@@ -1043,7 +1069,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@63"Compile /Users/sue/iDev/MileyCyrus/Classes/MainViewController.m282948090#282948090#0(0"0(0#0#55"/Users/sue/iDev/MileyCyrus/Classes/MainViewController.m4300885448#1766"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos -I/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/DerivedSources/armv6 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fyytnfqrvbtiqabwvyepubfmhjvl/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/Classes/MainViewController.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/MainViewController.o0#
+lSLF07#2@63"Compile /Users/sue/iDev/MileyCyrus/Classes/MainViewController.m283025041#283025041#0(0"0(0#0#55"/Users/sue/iDev/MileyCyrus/Classes/MainViewController.m4300885448#1766"    cd /Users/sue/iDev/MileyCyrus    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-generated-files.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-own-target-headers.hmap" "-I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-all-target-headers.hmap" -iquote "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Miley Cyrus-project-headers.hmap" -F/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos -I/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/include -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/DerivedSources/armv6 -I/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/DerivedSources -include /var/folders/lk/lk6jBUK1EtmBa5R34Rl9U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MileyCyrus_Prefix-fyytnfqrvbtiqabwvyepubfmhjvl/MileyCyrus_Prefix.pch -c /Users/sue/iDev/MileyCyrus/Classes/MainViewController.m -o /Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/MainViewController.o0#
 
 CCompileC build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/SplashViewController.o /Users/sue/iDev/MileyCyrus/SplashViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 s282948090.404031
@@ -1332,6 +1358,24 @@ xbuild/Debug-iphoneos/Miley Cyrus.app/Obsessed.html
 xThe Time of Our LIves/Obsessed.html
 lSLF07#2@40"Copy The Time of Our LIves/Obsessed.html282948088#282948088#0(0"0(0#0#62"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/Obsessed.html4300885448#499"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/Obsessed.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
 
+CCpResource "build/Debug-iphoneos/Miley Cyrus.app/PartyInTheU.S.A..html" "The Time of Our LIves/PartyInTheU.S.A..html"
+s283024957.275500
+e283024957.289419
+r1
+xCpResource
+xbuild/Debug-iphoneos/Miley Cyrus.app/PartyInTheU.S.A..html
+xThe Time of Our LIves/PartyInTheU.S.A..html
+lSLF07#2@48"Copy The Time of Our LIves/PartyInTheU.S.A..html283024957#283024957#0(0"0(0#0#70"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheU.S.A..html4300885448#507"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheU.S.A..html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphoneos/Miley Cyrus.app/PartyInTheU.S.A.html" "The Time of Our LIves/PartyInTheU.S.A.html"
+s283024771.132551
+e283024771.144348
+r1
+xCpResource
+xbuild/Debug-iphoneos/Miley Cyrus.app/PartyInTheU.S.A.html
+xThe Time of Our LIves/PartyInTheU.S.A.html
+lSLF07#2@47"Copy The Time of Our LIves/PartyInTheU.S.A.html283024771#283024771#0(0"0(0#0#69"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheU.S.A.html4300885448#506"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/PartyInTheU.S.A.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
+
 CCpResource "build/Debug-iphoneos/Miley Cyrus.app/PartyInTheUSA.html" "The Time of Our LIves/PartyInTheUSA.html"
 s282948088.778230
 e282948088.807997
@@ -1403,6 +1447,15 @@ xCpResource
 xbuild/Debug-iphoneos/Miley Cyrus.app/TheTimeOfOurLives.html
 xThe Time of Our LIves/TheTimeOfOurLives.html
 lSLF07#2@49"Copy The Time of Our LIves/TheTimeOfOurLives.html282948088#282948088#0(0"0(0#0#71"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TheTimeOfOurLives.html4300885448#508"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TheTimeOfOurLives.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
+
+CCpResource "build/Debug-iphoneos/Miley Cyrus.app/TimeOfOurLives.html" "The Time of Our LIves/TimeOfOurLives.html"
+s283024771.137343
+e283024771.144513
+r1
+xCpResource
+xbuild/Debug-iphoneos/Miley Cyrus.app/TimeOfOurLives.html
+xThe Time of Our LIves/TimeOfOurLives.html
+lSLF07#2@46"Copy The Time of Our LIves/TimeOfOurLives.html283024771#283024771#0(0"0(0#0#68"/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TimeOfOurLives.html4300885448#505"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sue/iDev/MileyCyrus/The Time of Our LIves/TimeOfOurLives.html" "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
 
 CCpResource "build/Debug-iphoneos/Miley Cyrus.app/WakeUpAmerica.html" Breakout/WakeUpAmerica.html
 s282948088.744362
@@ -1537,26 +1590,26 @@ CCpResource build/Debug-iphoneos/MileyCyrus.app/songStyles.css songStyles.css
 r0
 
 CGenerateDSYMFile "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app.dSYM" "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus"
-s282948090.583987
-e282948090.607009
+s283025041.346040
+e283025041.368164
 r1
 xGenerateDSYMFile
 x/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app.dSYM
 x/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus
-lSLF07#2@111"GenerateDSYMFile "build/Debug-iphoneos/Miley Cyrus.app.dSYM" "build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus"282948090#282948090#0(0"0(0#0#75"/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus4300885448#404"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus" -o "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app.dSYM"0#
+lSLF07#2@111"GenerateDSYMFile "build/Debug-iphoneos/Miley Cyrus.app.dSYM" "build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus"283025041#283025041#0(0"0(0#0#75"/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus4300885448#404"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus" -o "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app.dSYM"0#
 
 CGenerateDSYMFile /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/MileyCyrus.app.dSYM /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/MileyCyrus.app/MileyCyrus
 r0
 
 CLd "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus" normal armv6
-s282948090.469133
-e282948090.583866
+s283025041.311020
+e283025041.345927
 r1
 xLd
 x/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus
 xnormal
 xarmv6
-lSLF07#2@80"Link /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus282948090#282948090#0(0"0(0#0#0"4300885448#942"    cd /Users/sue/iDev/MileyCyrus    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -L/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos -F/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos -filelist "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/Miley Cyrus.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus"0#
+lSLF07#2@80"Link /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus283025041#283025041#0(0"0(0#0#0"4300885448#942"    cd /Users/sue/iDev/MileyCyrus    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -L/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos -F/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos -filelist "/Users/sue/iDev/MileyCyrus/build/MileyCyrus.build/Debug-iphoneos/MileyCyrus.build/Objects-normal/armv6/Miley Cyrus.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app/Miley Cyrus"0#
 
 CLd /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/MileyCyrus.app/MileyCyrus normal armv6
 r0
@@ -1611,12 +1664,12 @@ CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/i
 r0
 
 CTouch "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"
-s282948497.084511
-e282948497.087583
+s283025041.368377
+e283025041.371151
 r1
 xTouch
 x/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app
-lSLF07#2@69"Touch /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app282948497#282948497#0(0"0(0#0#0"4300885448#308"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
+lSLF07#2@69"Touch /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app283025041#283025041#0(0"0(0#0#0"4300885448#308"    cd /Users/sue/iDev/MileyCyrus    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/Miley Cyrus.app"0#
 
 CTouch /Users/sue/iDev/MileyCyrus/build/Debug-iphoneos/MileyCyrus.app
 r0
